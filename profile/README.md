@@ -48,7 +48,6 @@ intranet exposure with no command line, no config files, no router wrangling.
 | 仓库 | 说明 |
 | --- | --- |
 | [MoonProxyHQ/moonproxy-desktop](https://github.com/MoonProxyHQ/moonproxy-desktop) | 桌面应用源码（Tauri v2 + Vue 3 + Rust + TypeScript） |
-| [MoonProxyHQ/moonproxy-website](https://github.com/MoonProxyHQ/moonproxy-website) | 官网源码（Astro 静态站，Cloudflare Pages 部署） |
 
 ## 链接
 
