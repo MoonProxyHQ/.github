@@ -56,7 +56,7 @@ intranet exposure with no command line, no config files, no router wrangling.
 - 文档：[moonproxy-desktop/README](https://github.com/MoonProxyHQ/moonproxy-desktop#readme)
 - LLM 友好摘要：[llm.txt](https://moonproxy.app/llm.txt) · [llm-full.txt](https://moonproxy.app/llm-full.txt)
 - 社区：[Discussions](https://github.com/MoonProxyHQ/moonproxy-desktop/discussions)
-- 安全：[security@moonproxy.app](mailto:security@moonproxy.app)
+- 安全：[moonproxyhq@outlook.com](mailto:moonproxyhq@outlook.com)
 - 状态页：[moonproxy.app](https://moonproxy.app/)（域名即产品页）
 
 ## 适用场景
@@ -85,7 +85,7 @@ MoonProxy / 月神代理 **与 fatedier/frp 项目相互独立**。frp 的发布
 
 - Bug / Feature：[GitHub Issues](https://github.com/MoonProxyHQ/moonproxy-desktop/issues)
 - 讨论：[GitHub Discussions](https://github.com/MoonProxyHQ/moonproxy-desktop/discussions)
-- 安全报告：[security@moonproxy.app](mailto:security@moonproxy.app)
+- 安全报告：[moonproxyhq@outlook.com](mailto:moonproxyhq@outlook.com)
 
 ---
 
